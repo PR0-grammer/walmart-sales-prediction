@@ -24,7 +24,11 @@ The goal is to accurately predict future sales for Walmart stores using a superv
 ## Libraries Used
 
 - Python
-- Pandas, NumPy
+- Pandas
+- NumPy
+- joblib
+- xgboost
+- lightgbm
 - Scikit-learn
 - Matplotlib
 
