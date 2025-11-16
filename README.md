@@ -46,4 +46,4 @@ The goal is to accurately predict future sales for Walmart stores using a superv
 
 ## Results
 
-The best-performing model wich was LightGBM, which achieved the following on the testing set [MAE: 46737.95, RMSE: 75115.91, R²: 0.9813].
+The best-performing model wich was LightGBM, which achieved the following on the testing set [MAE: 45396.88, RMSE: 73954.18, R²: 0.9818].
